@@ -1,10 +1,4 @@
 task  1
-
-
-
-
-
-
 import java.util.Scanner;
 
 public class ReverseArray {
