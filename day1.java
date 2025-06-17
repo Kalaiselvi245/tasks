@@ -1,7 +1,6 @@
 
 task 1
-       
-        System.out.println("Enter the numbers:");
+  System.out.println("Enter the numbers:");
         for (int i = 0; i < n; i++) {
             numbers[i] = scanner.nextInt();
         }
